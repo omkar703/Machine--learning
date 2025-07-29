@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>pass</title>
+  </head>
+  <body>
+    <h1>
+      your marks are {{results}} {% if results >= 90 %}
+      <p>Excellent!</p>
+      {% elif results >= 80 %}
+      <p>Good job!</p>
+      {% elif results >= 70 %}
+      <p>You passed!</p>
+      {% else %}
+      <p>Sorry, you failed.</p>
+      {% endif %}
+    </h1>
+  </body>
+</html>

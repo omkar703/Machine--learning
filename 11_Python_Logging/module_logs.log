@@ -1,0 +1,3 @@
+2025-01-24 11:52:23,565 - module1 - DEBUG - This is a debug message from module 1
+2025-01-24 11:52:23,565 - module2 - WARNING - This is a warning message from module 2
+2025-01-24 11:52:23,566 - module2 - ERROR - This is an error message from module 2

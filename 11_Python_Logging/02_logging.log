@@ -1,0 +1,5 @@
+2025-01-24 11:59:18 - Arithmatic App - INFO - Addition of 10 and 5 is 15
+2025-01-24 11:59:18 - Arithmatic App - INFO - Subtraction of 10 and 5 is 5
+2025-01-24 11:59:18 - Arithmatic App - INFO - Multiplication of 10 and 5 is 50
+2025-01-24 11:59:18 - Arithmatic App - ERROR - Division by zero is not allowed
+2025-01-24 11:59:18 - Arithmatic App - INFO - Division of 10 and 5 is 2.0

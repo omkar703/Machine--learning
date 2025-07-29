@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+ipykernel
+numpy
+matplotlib
+seaborn
+Flask
+streamlit
+plotly
+tensorflow == 2.18.0
+python-dotenv
